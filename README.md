@@ -4,7 +4,7 @@
 
 #### Some profiles:
 
-- 🧬 Currently studying at *National Central University BSE*, first grades.
+- 🧬 Currently studying at *National Central University BSE*, third grades.
 - 🌱 Currently learning C++ and Python.
 - 📖 Hobbys:
   - Reading, reading, and still reading. 
