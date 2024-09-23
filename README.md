@@ -4,12 +4,12 @@
 
 #### Some profiles:
 
-- 🧬 Currently studying at *National Central University BSE*, third grades.
-- 🌱 Currently learning C++ and Python.
+- 🧬 Currently studying at *Biomedical Science and Engineering* at *NCU* in Taiwan.
+- 🌱 Currently learning STM32 and Kotlin.
 - 📖 Hobbys:
   - Reading, reading, and still reading. 
   - Sleeping
-  - And for sure, playing some games such as Sudoku or Rummikub online.
+  - Playing some games such as Sudoku or Rummikub online.
 <!--
 **sjh501/sjh501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
